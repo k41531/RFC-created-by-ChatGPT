@@ -1,0 +1,48 @@
+RFC: XXXX
+Title: The Galactic Interplanetary Internet Protocol
+Authors: John Doe, Jane Doe
+
+Abstract:
+
+This document defines the Galactic Interplanetary Internet Protocol (GIIP), which is a
+protocol for exchanging information between spaceships and planets in the galaxy. GIIP
+provides a hierarchical addressing system that allows each spaceship and planet to be
+uniquely identified, and specifies the rules for data transmission between them.
+
+1. Introduction
+
+The Galactic Interplanetary Internet Protocol (GIIP) is a protocol for exchanging
+information between spaceships and planets in the galaxy. GIIP uses a hierarchical
+addressing system that allows each spaceship and planet to be uniquely identified
+by its own IP address. This address consists of three parts: the planet or spaceship
+name, the local network name, and the host name.
+
+2. Data Transmission
+
+Data transmission in GIIP is based on the principle of "distance-dependent speed".
+This means that the speed of data transmission varies depending on the physical
+distance between the sender and the receiver. For example, data transmission between
+planets occurs at the speed of light, while data transmission between spaceships
+occurs at the speed of ultra-light.
+
+3. Error Correction
+
+In order to prevent errors in data transmission, GIIP uses a cyclic redundancy
+check (CRC) algorithm to detect and correct errors in the data. This algorithm
+calculates a checksum for each block of data and compares it with the original
+checksum to detect and correct any errors.
+
+4. Communication Failure
+
+In the case of communication failure, GIIP provides a mechanism for retrying the
+data transmission. If the sender does not receive an acknowledgement from the
+receiver within a certain time period, it will retransmit the data up to a
+predefined number of times. If the data cannot be successfully transmitted,
+GIIP will generate an error message and terminate the communication.
+
+5. Conclusion
+
+The Galactic Interplanetary Internet Protocol (GIIP) is a protocol for exchanging
+information between spaceships and planets in the galaxy. GIIP provides a hierarchical
+addressing system that allows each spaceship and planet to be uniquely identified,
+and specifies the rules for data transmission between them.
